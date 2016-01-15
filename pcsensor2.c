@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <ctype.h>
-#include <libusb-1.0/libusb.h>
+#include <libusb.h>
 #include <errno.h>
 #include <stdint.h>
 #include <stdlib.h>
